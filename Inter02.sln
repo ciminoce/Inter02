@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inter02.Consola", "Inter02.Consola\Inter02.Consola.csproj", "{3D87C06B-6CD3-4926-8338-64E74FE509DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inter02.Clases", "Inter02.Clases\Inter02.Clases.csproj", "{30AD1CA2-1CCB-4B75-89D6-5E3FFE1192EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D87C06B-6CD3-4926-8338-64E74FE509DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D87C06B-6CD3-4926-8338-64E74FE509DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D87C06B-6CD3-4926-8338-64E74FE509DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D87C06B-6CD3-4926-8338-64E74FE509DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30AD1CA2-1CCB-4B75-89D6-5E3FFE1192EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30AD1CA2-1CCB-4B75-89D6-5E3FFE1192EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30AD1CA2-1CCB-4B75-89D6-5E3FFE1192EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30AD1CA2-1CCB-4B75-89D6-5E3FFE1192EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0688B0DA-A1FA-4C53-9168-9FAC61C4E0F1}
+	EndGlobalSection
+EndGlobal
